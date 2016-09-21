@@ -1,10 +1,10 @@
 {
   "apps": [{
-    "serverURL": "",
-    "appId": "",
-    "masterKey": "",
-    "appName": "",
-    "iconName": ""
+    "serverURL": "https://vtextpay.herokuapp.com/parse",
+    "appId": "myAppId",
+    "masterKey": "myMasterKey",
+    "appName": "myApp",
+    "iconName": "myParse"
   }],
   "iconsFolder": "icons"
 }
