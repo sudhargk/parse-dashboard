@@ -3,6 +3,7 @@
     "serverURL": "https://vtextpay.herokuapp.com/parse",
     "appId": "myAppId",
     "masterKey": "myMasterKey",
+    "port" : 80
     "appName": "MyApp" ,
     "userId" : "user" ,
     "userPassword" : "pass1"
