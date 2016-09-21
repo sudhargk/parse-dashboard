@@ -5,6 +5,6 @@
     "masterKey": "myMasterKey",
     "appName": "MyApp" ,
     "userId" : "user" ,
-    "userPassword" : "pass"
+    "userPassword" : "pass1"
   }]
 }
