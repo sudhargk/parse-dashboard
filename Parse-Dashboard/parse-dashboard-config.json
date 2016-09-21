@@ -3,6 +3,8 @@
     "serverURL": "https://vtextpay.herokuapp.com/parse",
     "appId": "myAppId",
     "masterKey": "myMasterKey",
-    "appName": "myApp"
+    "appName": "MyApp" ,
+    "userId" : "user" ,
+    "userPassword" : "pass"
   }]
 }
